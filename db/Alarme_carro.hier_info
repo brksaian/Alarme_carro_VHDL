@@ -1,0 +1,15 @@
+|AlarmeCarro
+remoto => estado_proximo.DATAA
+remoto => Selector0.IN2
+remoto => Selector1.IN2
+remoto => Selector0.IN0
+remoto => estado_proximo.DATAA
+remoto => Selector2.IN1
+sensor => estado_proximo.OUTPUTSELECT
+sensor => estado_proximo.OUTPUTSELECT
+sensor => Selector2.IN2
+clock => estado_atual~1.DATAIN
+reset => estado_atual~3.DATAIN
+sirene <= sirene.DB_MAX_OUTPUT_PORT_TYPE
+
+

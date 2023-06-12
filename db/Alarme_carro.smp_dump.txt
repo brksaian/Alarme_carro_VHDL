@@ -1,0 +1,6 @@
+
+State Machine - |AlarmeCarro|estado_atual
+Name estado_atual.alarme estado_atual.armado estado_atual.desarmado 
+estado_atual.desarmado 0 0 0 
+estado_atual.armado 0 1 1 
+estado_atual.alarme 1 0 1 

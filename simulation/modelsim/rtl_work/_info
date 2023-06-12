@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\braia\OneDrive\Documentos\UP\2023 1 SEMESTRE\Quartus\Alarme\simulation\modelsim
+Ealarmecarro
+Z1 w1686179612
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\braia\OneDrive\Documentos\UP\2023 1 SEMESTRE\Quartus\Alarme\simulation\modelsim
+Z5 8C:/Users/braia/OneDrive/Documentos/UP/2023 1 SEMESTRE/Quartus/Alarme/Alarme_carro.vhd
+Z6 FC:/Users/braia/OneDrive/Documentos/UP/2023 1 SEMESTRE/Quartus/Alarme/Alarme_carro.vhd
+l0
+L14
+VSEno_<=>OF4_hDn?61RgR1
+!s100 aoY3::H=94?H3C[C^o1EQ0
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1686581479.113000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/braia/OneDrive/Documentos/UP/2023 1 SEMESTRE/Quartus/Alarme/Alarme_carro.vhd|
+Z10 !s107 C:/Users/braia/OneDrive/Documentos/UP/2023 1 SEMESTRE/Quartus/Alarme/Alarme_carro.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Aalarme
+R2
+R3
+DEx4 work 11 alarmecarro 0 22 SEno_<=>OF4_hDn?61RgR1
+l27
+L24
+V^WYE4CXO0i>=58Po`3OM31
+!s100 zf[<XT;m<W`KeChhj;28N3
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12
